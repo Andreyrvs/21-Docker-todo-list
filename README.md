@@ -1,16 +1,37 @@
-# 🚧 README em construção 🚧
+# My Awesome Project
 
-<!-- Olá, Tryber!
+> Eu desenvolvi os arquivos que estão em `docker/docker-commands` e `README.md`.
 
-Esse é apenas um arquivo inicial para o README do seu projeto.
+* Todos arquivos exeto os citados acima foram desenvolvidos pela [Trybe](https://www.betrybe.com/).
 
-É essencial que você preencha esse documento por conta própria, ok?
+## Contexto
 
-Não deixe de usar nossas dicas de escrita de README de projetos, e deixe sua criatividade brilhar!
+Este projeto trata-se de uma ????
 
-⚠️ IMPORTANTE: você precisa deixar nítido:
-- quais arquivos/pastas foram desenvolvidos por você; 
-- quais arquivos/pastas foram desenvolvidos por outra pessoa estudante;
-- quais arquivos/pastas foram desenvolvidos pela Trybe.
+## Técnologias usadas
 
--->
+Back-end:
+> Desenvolvido usando: Docker
+
+## Instalando Dependências
+
+* clone o repositorio
+
+  ```bash
+    git clone git@github.com:Andreyrvs/docker-todo-list.git
+  ```
+
+> Backend
+
+  ```bash
+    cd docker-todo-list
+    npm install
+  ```
+
+## Executando aplicação
+
+* Para rodar o back-end:
+
+  ```bash
+
+  ```
